@@ -138,15 +138,6 @@ The container runs both services simultaneously – no additional steps needed.
 You can test with `curl` or any HTTP client.
 
 
-
-## 🧠 Future Improvements
-
-- Add support for **more languages** (French, German, Spanish)
-- Integrate **spell checking** and **lemmatization**
-- Provide **batch processing** (upload `.txt` or `.csv` files)
-- Add **automatic language detection** without user specification
-- Deploy to **cloud** (Azure, AWS, or GCP) with a single command
-
 ---
 
 ## 👥 Acknowledgments
@@ -161,7 +152,7 @@ You can test with `curl` or any HTTP client.
 
 For questions, issues, or contributions, please open a ticket in the repository or contact the maintainers.
 
-```
+
 
 
 
