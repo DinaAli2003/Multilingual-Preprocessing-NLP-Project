@@ -150,7 +150,7 @@ You can test with `curl` or any HTTP client.
 
 ## 🙏 Thank You
 
-For questions, issues, or contributions, please open a ticket in the repository or contact the maintainers.
+For questions, issues, or contributions, please feel free to contact me.
 
 
 
